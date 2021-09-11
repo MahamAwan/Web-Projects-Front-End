@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#maham ul{
+    list-style: none;
+    z-index: 1000;
+}
+#maham ul li{
+    background-color: black;
+    border: 0.5px solid white;
+    width: 271.5px;
+    height: 40px;
+    text-align: center;
+    float: left;
+    position: relative;
+}
+#maham ul li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+#maham ul li a:hover{
+    background-color: green;
+    height: 40px;
+}
+#maham ul ul{
+    position: absolute;
+    display: none;
+}
+#maham ul li:hover > ul {
+    display: block;
+}

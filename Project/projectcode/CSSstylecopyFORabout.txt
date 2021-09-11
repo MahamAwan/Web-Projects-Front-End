@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Restaurent</title>
+    <link rel="stylesheet" type="text/css" href="footer.css">
+    <link rel="stylesheet" type="text/css" href="stylecopy.css">
+    <link rel="stylesheet" type="text/css" href="top.css">
+</head>
+<body>
+
+     <!--Navigation Bar-->
+     <div id="maham">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="About.html">About</a></li>
+            <li><a href="Menu.html">Menu</a>
+            <ul>
+                <li><a href="#">Desi Food</a></li>
+                <li><a href="#">Chinese</a></li>
+                <li><a href="#">Burgers</a></li>
+                <li><a href="#">Soup</a></li>
+                <li><a href="#">Sweet</a></li>
+            </ul>
+            </li>
+            <li><a href="order.html">Order</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </div>
+    <br><br><br>
+    <h1 align="center">About</h1>
+    <br>
+    <p>MahamRazzaqAwan MahamRazzaqAwan MahamRazzaqAwan MahamRazzaqAwan MahamRazzaqAwan MahamRazzaqAwan</p>
+    <br><br><br>
+    <h1 align="center">Our team</h1>
+
+    <div class="top">
+        <div class="Top_Product"><img src="shef1.jpg" width="100%"></div>
+        <div class="Top_Product"><img src="shef2.jpg" width="100%"></div>
+        </div>
+        <br><br><br>
+        <h1 align="center">Restaurent Owner</h1>
+        <img src="maha.jpg">
+<br><br><br>
+<!--Footer-->
+<br><br><br>
+<div class="footer">
+    <div class="footer1"><b>Quick link</b><br><br>
+        <a href="#">Home</a><br>
+        <a href="#">About</a><br>
+        <a href="#">Menu</a><br>
+        <a href="#">Order</a><br>
+        <a href="#">Contact</a><br>
+    </div>
+        <div class="footer1"><b>Menu</b><br><br>
+        Desi Food<br>
+        chinese<br>
+        Burgers<br>
+        Soup<br>
+        Sweets<br>
+    </div>
+    <div class="footer1"><b>Address</b><br><br>
+        Address:Awan Street Kot Abdullah<br>
+        Email: mahamaawan5644@gmail.com<br>
+        Mobile: 03009484969<br>
+        Time: 10:00 AM <br>
+    </div>
+    <div class="footer1"><b>Direction</b><br><br>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13594.334700733052!2d74.46775997281725!3d31.590462714784707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391911e64a7da0df%3A0x79a0ea1668a0b9b7!2sBata%20Pur%2C%20Lahore%2C%20Punjab%2C%20Pakistan!5e0!3m2!1sen!2s!4v1624388342978!5m2!1sen!2s" width="260" height="120" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+</div>
+</body>

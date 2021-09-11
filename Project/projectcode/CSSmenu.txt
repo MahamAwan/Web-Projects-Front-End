@@ -1,0 +1,50 @@
+.top{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Top_Product{
+    border: 2px solid black;
+    height: 320px;
+    width: 400px;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 2px lightgray, -5px 5px 2px lightgrey;
+    transition: transform 1s;
+}
+.Top_Product:hover{
+    transform: scale(1.1);
+}
+.nameProd{
+    text-align: center;
+    font-size: 25px;
+    font-family: bold;
+}
+.title p{
+    text-align: center;
+}
+.title b{
+    color: green;
+    font-size: 18px;
+}
+.btn{
+    border: 0px solid green;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn input{
+    height: 40px;
+    width: 130px;
+    border-radius: 7px;
+    border: 0px;
+    background-color: orange;
+    /*font-size: 22px;*/
+    box-shadow: 3px 3px 2px grey, -3px 3px 2px lightgrey;
+}
+.btn input:hover{
+    background-color: green;
+}
